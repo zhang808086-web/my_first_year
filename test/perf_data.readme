@@ -1,0 +1,18 @@
+
+middle
+Processed lines: 12870
+Total time(ms): 6092
+Throughput(lines/s): 2112.61
+Avg latency(us): 8
+
+short
+Processed lines: 12870
+Total time(ms): 6103
+Throughput(lines/s): 2108.8
+Avg latency(us): 6
+
+high
+Processed lines: 12870
+Total time(ms): 6046
+Throughput(lines/s): 2128.68
+Avg latency(us): 7
