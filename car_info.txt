@@ -1,5 +1,0 @@
-Electric_car 1 : performance_level - high, brand - toyota,power_consumption_per_100km - 15
-Electric_car 2 : performance_level - medium, brand - honda,power_consumption_per_100km - 18
-Electric_car 3 : performance_level - high, brand - tesla,power_consumption_per_100km - 12
-Sport_car 1 : performance_level - very high, brand - benz,power_consumption_per_100km - 25
-Sport_car 2 : performance_level - high, brand - ferrari,power_consumption_per_100km - 30
